@@ -176,7 +176,8 @@ figure {
     position: relative;
     overflow: hidden;
     min-width: 300px;
-    max-height: 100%;
+    max-width: 500px;
+    max-height: 500px;;
     width: 100%;
     background: white;
     text-align: center;
