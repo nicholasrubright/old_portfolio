@@ -44,6 +44,7 @@ body {
     height: 60px;
 }
 
+
 .skil2 {
     width: 60px;
     height: 60px;
@@ -51,6 +52,14 @@ body {
 
 #skil {
     padding: 10px;
+}
+
+#pro {
+    min-width: 250px;
+}
+
+#choc {
+    max-width: 100%;
 }
 
 .fa {
