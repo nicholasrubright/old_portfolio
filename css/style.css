@@ -159,7 +159,7 @@ figure {
     min-width: 300px;
     max-height: 100%;
     width: 100%;
-    background: #326772;
+    background: white;
     text-align: center;
     cursor: pointer;
 }
@@ -225,7 +225,7 @@ figure p {
 
 
 figure.effect-sarah {
-    background: #326772;
+    background: #818181;
 }
 
 figure.effect-sarah img {
