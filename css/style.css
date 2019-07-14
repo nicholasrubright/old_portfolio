@@ -157,9 +157,9 @@ figure {
     position: relative;
     overflow: hidden;
     min-width: 300px;
-    max-height: 300px;
+    max-height: auto;
     width: 100%;
-    background: #3085a3;
+    background: #326772;
     text-align: center;
     cursor: pointer;
 }
@@ -220,12 +220,12 @@ figure h2 span {
 
 figure p {
     letter-spacing: 0px;
-    font-size: 68.5%;
+    font-size: 80%;
 }
 
 
 figure.effect-sarah {
-    background: #2c2f33;
+    background: #326772;
 }
 
 figure.effect-sarah img {
