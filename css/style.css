@@ -39,8 +39,21 @@ body {
     background-color: #f6f6f6;
   }
 
+.expH {
+    text-align: center;
+    padding-bottom: 0px;
+}
+
+.expA {
+    font-size: 20px;
+}
+
 .choc {
-    padding-bottom: 20px;
+    padding-top: 0px;
+}
+
+.expRow {
+    padding-top: 50px;
 }
 
 #pro {
@@ -69,7 +82,6 @@ body {
 }
 
 #choc {
-    max-width: 100%;
 }
 
 .fa {
