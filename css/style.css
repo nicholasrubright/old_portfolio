@@ -1,5 +1,5 @@
 body {
-    font: 400 15px Raleway, sans-serif;
+    font: 100 15px Segoe UI, sans-serif;
     line-height: 1.8;
     color: #818181;
   }
@@ -72,6 +72,9 @@ body {
     height: 60px;
 }
 
+#skills h3 {
+  font-size: 20px;
+}
 
 #skil {
     padding: 10px;
